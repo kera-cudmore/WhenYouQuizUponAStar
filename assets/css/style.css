@@ -1,12 +1,34 @@
 @import url('https://fonts.googleapis.com/css2?family=Fresca&family=Mouse+Memoirs&display=swap');
 
-body {
+/* Setting the background colour of pages*/
+:root {
     background-color: #002466;
 }
 
+
+/* Removing padding & margins from everything on the page to allow me to customise these. Setting font, size & colour to be used */
+* {
+    font-family: "Fresca", sans-serif;
+    font-size: 1.25rem;
+    color: #F5F5F5;
+    padding: 0;
+    margin: 0;
+}
+
+
+/* Flexbox container */
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+
 h1 {
-    color: #F2B138;
+    color: #C7D1D1;
     font-family: "Mouse Memoirs", sans-serif;
     text-align: center;
-    font-size: 4rem;
+    font-size: 5rem;
 }
+
