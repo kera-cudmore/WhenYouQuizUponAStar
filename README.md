@@ -86,7 +86,7 @@ Special consideration had to be taken into account due to the subject of the sit
 
 Wireframes were created for mobile, tablet and desktop using balsamiq.
 
-Wireframes links/images to go here
+![Home page](documentation/wireframes/homepage.png)
 
 ### Features
 
