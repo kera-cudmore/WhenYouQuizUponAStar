@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Fresca&family=Mouse+Memoirs&display=swap');
+
+body {
+    background-color: #002466;
+}
+
+h1 {
+    color: #F2B138;
+    font-family: "Mouse Memoirs", sans-serif;
+    text-align: center;
+    font-size: 4rem;
+}
