@@ -4,7 +4,7 @@ Information about the website to go here.
 
 Add site responsive screenshot here
 
-Link to deployed site to go here
+View the deployed site here: [When You Quiz Upon a Star](https://kera-cudmore.github.io/WhenYouQuizUponAStar/)
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/kera-cudmore/WhenYouQuizUponAStar?color=red&style=for-the-badge)
 ![GitHub contributors](https://img.shields.io/github/contributors/kera-cudmore/WhenYouQuizUponAStar?color=orange&style=for-the-badge)
@@ -74,9 +74,9 @@ Image of colour scheme to go here
 
 Google Fonts was used to import the chosen fonts for use in the site.
 
-* Mouse Memoirs – This font is inspired by vintage Mickey Mouse comics from the 1950’s and 1960’s. This font is to be used for the headings and questions on the site.
+* [Mouse Memoirs](https://fonts.google.com/specimen/Mouse+Memoirs?query=mouse+memoirs&preview.text=When%20You%20Quiz%20Upon%20a%20Star%20-%20Fresca%20Font&preview.text_type=custom&category=Sans+Serif) – This sans-serif font is inspired by vintage Mickey Mouse comics from the 1950’s and 1960’s. This font is used for the headings and the questions text.
 
-* Fresca – This font is to be used for the body of the site.
+* [Fresca](https://fonts.google.com/specimen/Fresca?query=fresca&preview.text=When%20You%20Quiz%20Upon%20a%20Star%20-%20Fresca%20Font&preview.text_type=custom&category=Sans+Serif) – This sans-serif font is used for the body of the site.
 
 ### Imagery
 
@@ -115,27 +115,31 @@ HTML, CSS, Javascript
 
 ### Frameworks, Libraries & Programs Used
 
-Balsamiq - Used to create wireframes.
+* [Balsamiq](https://balsamiq.com/) - Used to create wireframes.
 
-Git - For version control.
+* [Git](https://git-scm.com/) - For version control.
 
-Github - To save and store the files for the website.
+* [Github](https://github.com/) - To save and store the files for the website.
 
-Google Fonts - To import the fonts used on the website.
+* [GitPod](https://gitpod.io/) - IDE used to create the site.
 
-Font Awesome - For the iconography on the website.
+* [Google Fonts](https://fonts.google.com/) - To import the fonts used on the website.
 
-Google Dev Tools - To troubleshoot and test features, solve issues with responsiveness and styling.
+* [Font Awesome](https://fontawesome.com/) - For the iconography on the website.
 
-[Tiny PNG](https://tinypng.com/) To compress images.
+* [jQuery](https://jquery.com/) - A JavaScript library.
 
-[Birme](https://www.birme.net/) To resize images and convert to webp format.
+* [Google Developer Tools](https://developers.google.com/web/tools) - To troubleshoot and test features, solve issues with responsiveness and styling.
 
-[Favicon.io](https://favicon.io/) To create favicon.
+* [Tiny PNG](https://tinypng.com/) To compress images.
 
-[Am I Responsive?](http://ami.responsivedesign.is/) To show the website image on a range of devices.
+* [Birme](https://www.birme.net/) To resize images and convert to webp format.
 
-[Shields.io](https://shields.io/) To add badges to the README
+* [Favicon.io](https://favicon.io/) To create favicon.
+
+* [Am I Responsive?](http://ami.responsivedesign.is/) To show the website image on a range of devices.
+
+* [Shields.io](https://shields.io/) To add badges to the README
 
 - - -
 
@@ -143,7 +147,16 @@ Google Dev Tools - To troubleshoot and test features, solve issues with responsi
 
 ### Deployment
 
-The site is deployed using GitHub Pages.
+The site is deployed using GitHub Pages - [when You Quiz Upon a Star](https://kera-cudmore.github.io/WhenYouQuizUponAStar/).
+
+To Deploy the site using GitHub Pages:
+
+1. Login (or signup) to Github.
+2. Go to the repository for this project, [kera-cudmore/WhenYouQuizUponAStar](https://github.com/kera-cudmore/WhenYouQuizUponAStar).
+3. Click the settings button.
+4. Select pages in the left hand navigation menu.
+5. From the source dropdown select main branch and press save.
+6. The site has now been deployed, please note that this process may take a few minutes before the site goes live.
 
 ### Local Development
 
@@ -152,7 +165,7 @@ The site is deployed using GitHub Pages.
 To fork the repository:
 
 1. Log in (or sign up) to Github.
-2. Go to the repository for this project, **.
+2. Go to the repository for this project, [kera-cudmore/WhenYouQuizUponAStar](https://github.com/kera-cudmore/WhenYouQuizUponAStar)
 3. Click the Fork button in the top right corner.
 
 #### How to Clone
@@ -160,7 +173,7 @@ To fork the repository:
 To clone the repository:
 
 1. Log in (or sign up) to GitHub.
-2. Go to the repository for this project, **.
+2. Go to the repository for this project, [kera-cudmore/WhenYouQuizUponAStar](https://github.com/kera-cudmore/WhenYouQuizUponAStar)
 3. Click on the code button, select whether you would like to clone with HTTPS, SSH or GitHub CLI and copy the link shown.
 4. Open the terminal in your code editor and change the current working directory to the location you want to use for the cloned directory.
 5. Type 'git clone' into the terminal and then paste the link you copied in step 3. Press enter.
@@ -173,15 +186,21 @@ Testing was ongoing throughout the entire build. I utilised Chrome developer too
 
 ### W3C Validator
 
-The W3C validator was used to validate the HTML on all pages of the website. It was also used to validate CSS in the style.css file.
+[W3C](https://validator.w3.org/) was used to validate the HTML on all pages of the website. It was also used to validate the CSS.
 
 W3C validator images or links to go here
 
 ### JavaScript Validator
 
-** was used to validate the JavaScript used.
+[jshint](https://jshint.com/) was used to validate the JavaScript.
+
+jshint images or links to go here
 
 ### Solved Bugs
+
+| Bug | How I solved the issue |
+| :--- | :--- |
+| text here | text here |
 
 ### Known Bugs
 
