@@ -1,6 +1,6 @@
 # When You Quiz Upon a Star
 
-Information about the website to go here.
+When you quiz upon a star is a JavaScript quiz game about all things Disney.
 
 Add site responsive screenshot here
 
@@ -10,7 +10,7 @@ View the deployed site here: [When You Quiz Upon a Star](https://kera-cudmore.gi
 ![GitHub contributors](https://img.shields.io/github/contributors/kera-cudmore/WhenYouQuizUponAStar?color=orange&style=for-the-badge)
 ![GitHub language count](https://img.shields.io/github/languages/count/kera-cudmore/WhenYouQuizUponAStar?color=yellow&style=for-the-badge)
 ![GitHub top language](https://img.shields.io/github/languages/top/kera-cudmore/WhenYouQuizUponAStar?color=green&style=for-the-badge)
-![W3C Validator]()
+![W3C Validation](https://img.shields.io/w3c-validation/default?targetUrl=https%3A%2F%2Fkera-cudmore.github.io%2FWhenYouQuizUponAStar%2F)
 
 ## CONTENTS
 
@@ -232,8 +232,3 @@ I also went through each page using google chrome developer tools to ensure that
 
 ### Media
 
-### Acknowledgments
-
-I would like to acknowledge the following people who helped me along the way in completing this project:
-
-* Adegbenga  Adeye - My Code Institute Mentor.
