@@ -10,8 +10,7 @@ View the deployed site here: [When You Quiz Upon a Star](https://kera-cudmore.gi
 ![GitHub contributors](https://img.shields.io/github/contributors/kera-cudmore/WhenYouQuizUponAStar?color=orange&style=for-the-badge)
 ![GitHub language count](https://img.shields.io/github/languages/count/kera-cudmore/WhenYouQuizUponAStar?color=yellow&style=for-the-badge)
 ![GitHub top language](https://img.shields.io/github/languages/top/kera-cudmore/WhenYouQuizUponAStar?color=green&style=for-the-badge)
-![W3C Validation](https://img.shields.io/w3c-validation/default?targetUrl=https%3A%2F%2Fkera-cudmore.github.io%2FWhenYouQuizUponAStar%2F)
-
+![W3C Validation](https://img.shields.io/w3c-validation/default?color=blue&style=for-the-badge&targetUrl=https%3A%2F%2Fkera-cudmore.github.io%2FWhenYouQuizUponAStar%2F)
 ## CONTENTS
 
 * [User Experience (UX)](#User-Experience-(UX))
