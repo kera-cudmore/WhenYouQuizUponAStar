@@ -1,23 +1,33 @@
 @import url('https://fonts.googleapis.com/css2?family=Fresca&family=Mouse+Memoirs&display=swap');
 
-/* Setting the background colour of pages*/
 :root {
-    background-color: #002466;
+  --heading-text: "Mouse Memoirs", sans-serif;
+  --content-text: "Fresca", sans-serif;
+  --dark-blue: #19418C;
+  --black: #000000;
+  --silver: #C7D1D1;
+
 }
 
-/* Removing padding & margins from everything on the page to allow me to customise these. Setting font, size & colour to be used */
+/* Removing padding & margins from everything on the page to allow me to customise these. */
 * {
-    font-family: "Fresca", sans-serif;
-    font-size: 1.25rem;
     padding: 0;
     margin: 0;
 }
 
+body {
+  background-image: url("../images/castle.webp");
+  background-color: var(--dark-blue);
+  background-position: center;
+  background-size: cover;
+  height: 100%;
+}
+
 h1 {
-    color: #C7D1D1;
-    font-family: "Mouse Memoirs", sans-serif;
+    color: var(--silver);
+    font-family: var(--heading-text);
     text-align: center;
-    font-size: 5rem;
+    font-size: 2rem;
     padding-bottom: 2rem;
 }
 
@@ -33,21 +43,44 @@ h1 {
 
 .quiz-container {
     width: 80%;
-    background-color: #B18B43;
-    border-radius: 10px;
+    background-color: var(--black);
+    opacity: 80%;
+    border-radius: 25px;
     padding: 2rem;
 }
 
 #question {
 text-align: center;
 padding-bottom: 2rem;
+color: var(--silver);
 }
 
 /* BUTTONS */
 
 .btn {
-    background-color: #19418C;
+    background-color: var(--dark-blue);
     padding: 10px;
-    border-radius: 10px;
-    color: #f5f5f5;
+    border-radius: 25px;
+    color: var(--silver);
+    font-family: var(--content-text);
+}
+
+
+
+/* Media Queries */
+
+/* Tablets */
+@media only screen and (min-width : 481px) {
+ h1 {
+   font-size: 4rem;
+ }
+}
+
+
+/* Laptops */
+@media only screen and (min-width : 769px) {
+  h1 {
+    font-size: 6rem;
+  }
+
 }
