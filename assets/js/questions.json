@@ -1,0 +1,346 @@
+{
+  "quiz": [{
+      "question": "In what year did Mickey Mouse make his debut?",
+      "answer1": "1928",
+      "answer2": "1930",
+      "answer3": "1933",
+      "answer4": "1935"
+    },
+
+    {
+      "question": "Where did Walt Disney come up with the idea for Mickey Mouse?",
+      "answer1": "On a train",
+      "answer2": "On a plane",
+      "answer3": "In a car",
+      "answer4": "Riding a bike"
+    },
+
+    {
+      "question": "What happens to Pinocchio when he lies?",
+      "answer1": "His nose grows",
+      "answer2": "His hair grows",
+      "answer3": "His legs shrink",
+      "answer4": "His eyes turn blue"
+    },
+
+    {
+      "question": "In the film Tangled, what lights up the sky during the song I see the light?",
+      "answer1": "Lanterns",
+      "answer2": "Fireflies",
+      "answer3": "Fireworks",
+      "answer4": "Stars"
+    },
+
+    {
+      "question": "What colour is Luigi in Cars?",
+      "answer1": "Yellow",
+      "answer2": "Red",
+      "answer3": "Blue",
+      "answer4": "Green"
+    },
+
+    {
+      "question": "How many brothers does Merida have in Brave?",
+      "answer1": "3",
+      "answer2": "1",
+      "answer3": "2",
+      "answer4": "4"
+    },
+
+    {
+      "question": "What is Scars relationship to Simba in The Lion King?",
+      "answer1": "Uncle",
+      "answer2": "Brother",
+      "answer3": "Father",
+      "answer4": "Son"
+    },
+
+    {
+      "question": "Why does Destiny in Finding Dory have trouble swimming?",
+      "answer1": "She has poor eyesight",
+      "answer2": "She has one small fin",
+      "answer3": "She never had lessons",
+      "answer4": "She can't breathe underwater"
+    },
+
+    {
+      "question": "How many parks does Walt Disney World have in Florida?",
+      "answer1": "4",
+      "answer2": "1",
+      "answer3": "2",
+      "answer4": "3"
+    },
+
+    {
+      "question": "What is the name of the crab in The Little Mermaid?",
+      "answer1": "Sebastian",
+      "answer2": "Francis",
+      "answer3": "Eric",
+      "answer4": "Flounder"
+    },
+
+    {
+      "question": "What is the name of Wendy's dog in Peter Pan?",
+      "answer1": "Nana",
+      "answer2": "Spot",
+      "answer3": "Fido",
+      "answer4": "Alice"
+    },
+
+    {
+      "question": "How many brothers does Hans of the Southern Isles have in Frozen?",
+      "answer1": "12",
+      "answer2": "6",
+      "answer3": "8",
+      "answer4": "15"
+    },
+
+    {
+      "question": "What does the name Mufasa mean in Swahili?",
+      "answer1": "King",
+      "answer2": "Leader",
+      "answer3": "Ruler",
+      "answer4": "Father"
+    },
+
+    {
+      "question": "How old is Crush in Finding Nemo?",
+      "answer1": "150",
+      "answer2": "50",
+      "answer3": "100",
+      "answer4": "200"
+    },
+
+    {
+      "question": "Who is famous for saying ‘Fish are friends, not food?",
+      "answer1": "Bruce",
+      "answer2": "Marlin",
+      "answer3": "Sebastian",
+      "answer4": "Dory"
+    },
+
+    {
+      "question": "What name does Mulan choose for herself when she pretends to be a man?",
+      "answer1": "Ping",
+      "answer2": "Chang",
+      "answer3": "Feng",
+      "answer4": "Hu"
+    },
+
+    {
+      "question": "What musical instrument does Miguel play in Coco?",
+      "answer1": "Guitar",
+      "answer2": "Piano",
+      "answer3": "Harmonica",
+      "answer4": "Triangle"
+    },
+
+    {
+      "question": "What kind of insect is Flik from A Bugs Life?",
+      "answer1": "Ant",
+      "answer2": "Grasshopper",
+      "answer3": "Caterpillar",
+      "answer4": "Ladybird"
+    },
+
+    {
+      "question": "What Disney animated film was the first to earn a Best Picture Nomination?",
+      "answer1": "Beauty and the Beast",
+      "answer2": "The Little Mermaid",
+      "answer3": "Aladdin",
+      "answer4": "Tangled"
+    },
+
+    {
+      "question": "What character sings ‘How far I’ll go’?",
+      "answer1": "Moana",
+      "answer2": "Mauii",
+      "answer3": "Krakatoa",
+      "answer4": "Hei Hei"
+    },
+
+    {
+      "question": "What animal does emperor Kuzco turn into in The Emperor’s New Groove?",
+      "answer1": "Llama",
+      "answer2": "Bear",
+      "answer3": "Alpaca",
+      "answer4": "Horse"
+    },
+
+    {
+      "question": "What was the first Pixar movie?",
+      "answer1": "Toy Story",
+      "answer2": "A Bugs Life",
+      "answer3": "Aladdin",
+      "answer4": "Cars"
+    },
+
+    {
+      "question": "What is the name of Belle’s father in Beauty and the Beast?",
+      "answer1": "Maurice",
+      "answer2": "Martin",
+      "answer3": "Michael",
+      "answer4": "Max"
+    },
+
+    {
+      "question": "What did Cinderella leave behind at the ball?",
+      "answer1": "Glass Slipper",
+      "answer2": "Ring",
+      "answer3": "Scarf",
+      "answer4": "Tiara"
+    },
+
+    {
+      "question": "What does Aladdin share with the hungry children?",
+      "answer1": "Bread",
+      "answer2": "Dates",
+      "answer3": "Cheese",
+      "answer4": "Banana"
+    },
+
+    {
+      "question": "What Country does Prince Naveen come from in The Princess and the Frog?",
+      "answer1": "Maldonia",
+      "answer2": "Marca",
+      "answer3": "Mypos",
+      "answer4": "Maramargos"
+    },
+
+    {
+      "question": "How many eggs does Gaston eat to stay roughly the size of a barge?",
+      "answer1": "Five Dozen",
+      "answer2": "Four Dozen",
+      "answer3": "Nine Dozen",
+      "answer4": "Seven Dozen"
+    },
+
+    {
+      "question": "What is the name of Merlyn’s pet owl in The Sword in the Stone?",
+      "answer1": "Archimedes",
+      "answer2": "Aristotle",
+      "answer3": "Socrates",
+      "answer4": "Plato"
+    },
+
+    {
+      "question": "Who was Bambi’s rabbit friend?",
+      "answer1": "Thumper",
+      "answer2": "Peter",
+      "answer3": "Fluffy",
+      "answer4": "Jumper"
+    },
+
+    {
+      "question": "Before he joined Woody and the Gang in Toy Story, where was Buzz Lightyear stationed?",
+      "answer1": "Gamma Quadrant of Sector Four",
+      "answer2": "The Moon",
+      "answer3": "Mars",
+      "answer4": "Alpha Centauri"
+    },
+
+    {
+      "question": "What is the name of the old man in Up?",
+      "answer1": "Carl Fredrickson",
+      "answer2": "Doug Fredrickson",
+      "answer3": "Ken Fredrickson",
+      "answer4": "Fred Fredrickson"
+    },
+
+    {
+      "question": "What was the first Star Wars movie made by Disney?",
+      "answer1": "Star Wars: The Force Awakens",
+      "answer2": "Star Wars IV: A New Hope",
+      "answer3": "Rogue One",
+      "answer4": "Star Wars: The Last Jedi"
+    },
+
+    {
+      "question": "Where do the Parr family live?",
+      "answer1": "Municiberg",
+      "answer2": "Los Angeles",
+      "answer3": "New York",
+      "answer4": "Seattle"
+    },
+
+    {
+      "question": "In The Little Mermaid, who is not one of Triton’s daughters?",
+      "answer1": "Adora",
+      "answer2": "Andrina",
+      "answer3": "Attina",
+      "answer4": "Alana"
+    },
+
+    {
+      "question": "In Sleeping Beauty, what is the name of Maleficents pet raven?",
+      "answer1": "Diablo",
+      "answer2": "Malum",
+      "answer3": "Mauvais",
+      "answer4": "Diable"
+    },
+
+    {
+      "question": "What did Pochontas see in her dream that made her believe that a change was coming?",
+      "answer1": "A spinning arrow",
+      "answer2": "A strange cloud formation",
+      "answer3": "A hawk circling her village",
+      "answer4": "A burning blue fire"
+    },
+
+    {
+      "question": "What is the name of the organisation Bernard and Miss Bianca work for in the Rescuers?",
+      "answer1": "The Rescue Aid Society",
+      "answer2": "The International Rescue Organisation",
+      "answer3": "The Secret Helpers",
+      "answer4": "The Rescuers"
+    },
+
+    {
+      "question": "On whose shoulders does Dopey stand in order to dance with Snow White?",
+      "answer1": "Sneezy",
+      "answer2": "Doc",
+      "answer3": "Grumpy",
+      "answer4": "Happy"
+    },
+
+    {
+      "question": "In Lady and the Tramp, in what holiday was Lady given as a gift?",
+      "answer1": "Christmas",
+      "answer2": "Valentines Day",
+      "answer3": "Darling’s Birthday",
+      "answer4": "Their Anniversary"
+    },
+
+    {
+      "question": "What is the name of Goofy’s son?",
+      "answer1": "Max",
+      "answer2": "Sam",
+      "answer3": "Gareth",
+      "answer4": "Miles"
+    },
+
+    {
+      "question": "In Monsters Inc, what is the code given to a sock?",
+      "answer1": "23-19",
+      "answer2": "33-19",
+      "answer3": "53-19",
+      "answer4": "43-19"
+    },
+
+    {
+      "question": "What is the name of the lamp that appears on the Disney-Pixar logo?",
+      "answer1": "Luxo Jr",
+      "answer2": "Lampie",
+      "answer3": "A113",
+      "answer4": "Flash"
+    },
+
+    {
+      "question": "What business does Miguels family run in Coco?",
+      "answer1": "Shoemaker",
+      "answer2": "Tailor",
+      "answer3": "Bakery",
+      "answer4": "Coffee Shop"
+    }
+  ]
+}
