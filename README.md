@@ -1,4 +1,4 @@
-# When You Quiz Upon a Star
+# When You Quiz Upon a Star - WIP
 
 When you quiz upon a star is a JavaScript quiz game about all things Disney.
 
